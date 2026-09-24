@@ -7,7 +7,7 @@ Domain: Medical Symptom Triage Bot
 Attempt: Attempt 2
 
 GitHub URL:
-
+https://github.com/osakachan43-max/-Lab5_Design_a_Rule-Based_Expert_System.git
 
 PDF File:
 
